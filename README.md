@@ -65,12 +65,15 @@ Returns the sum of all numeric values in the specified row of a table.
 ## Example outputs for endpoints 
 
 -  http://localhost:9090/list_tables
+  
   Output - ![image](https://github.com/user-attachments/assets/0683f1fd-4ae9-40ff-8d63-c837d1423a1a)
 
 - http://localhost:9090/get_table_details?table_name=INITIAL INVESTMENT
+
   Output - ![image](https://github.com/user-attachments/assets/82ca16c3-d669-4595-9112-5d68c98b6eeb)
 
 - http://localhost:9090/row_sum?table_name=INITIAL INVESTMENT&row_name=Net Investment
+
   Output - ![image](https://github.com/user-attachments/assets/c00619c3-53bf-4d56-8ecb-e46d3ba45350)
 
 
